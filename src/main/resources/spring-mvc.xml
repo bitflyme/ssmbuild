@@ -10,7 +10,7 @@
 
 
         <!--配置springmvc-->
-        <!--1、开启spring注解驱动-->
+        <!--1、开启springmvc注解驱动-->
         <mvc:annotation-driven />
 
         <!--2、静态资源默认servlet配置-->
